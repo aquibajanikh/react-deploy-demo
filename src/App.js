@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>This project was last edited on 26th March, 2023</p>
+        <p>This is the latest line of code</p>
       </header>
     </div>
   );
